@@ -1,0 +1,6 @@
+
+1squid:S1220""Move this file to a named package.
+ysquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(›½é¨ÿÿÿÿÿ8¤½ŞÉè-
+Jsquid:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8´°åÉè-
+Ysquid:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8´°åÉè-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ïù¸†ûÿÿÿÿ
